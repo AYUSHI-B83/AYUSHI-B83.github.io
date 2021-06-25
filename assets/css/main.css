@@ -5851,9 +5851,8 @@ header h1 {
   
 
   #rainbow-text{
-    background-image: linear-gradient(to left, violet, indigo, blue, green,  orange, red); 
-    -webkit-background-clip: text;
-    color: transparent;
+    
+    color: #002a41;
     font-weight: bold;
 
   }
